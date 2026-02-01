@@ -1,5 +1,12 @@
 # Obsidian Themes
-My themes for Obsidian Minimal Theme using Style Settings plugin 
+My themes for Obsidian Minimal Theme using Style Settings plugin.
+
+# How to use
+
+1. Install Minimal Theme
+2. Install Minimal Theme Plugin
+3. Install Style Settings Plugin
+4. In Style Settings settings click Import and import file content or file itself
 
 # Dark pink
 
