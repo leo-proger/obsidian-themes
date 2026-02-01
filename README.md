@@ -1,4 +1,4 @@
-# obsidian-themes
+# Obsidian Themes
 My themes for Obsidian Minimal Theme using Style Settings plugin 
 
 # Dark pink
