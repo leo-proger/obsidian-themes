@@ -28,7 +28,7 @@ To add your own theme:
 5. Create `themes/your-theme-name/README.md` with:
    - A short description
    - A settings table (accent color, color scheme, and any other required settings)
-   - A screenshot
+   - A screenshot — ideally taken with [`screenshot-template.md`](screenshot-template.md) open in Obsidian, so all previews show comparable content
 6. Add a row to the **Themes** table in this README
 7. Open a Pull Request
 
