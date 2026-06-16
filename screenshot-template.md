@@ -28,7 +28,8 @@ Tags look like this: #productivity #note-taking
 ---
 
 > [!tip] Doesn't fit on one screen?
-> Move everything from **Blockquote** onwards into a second file and use Obsidian's split view (right-click a tab → *Split right*) — it works just like in an IDE.
+> Move everything from **Blockquote** onwards into a second file and use Obsidian's split view (right-click a tab →
+*Split right*) — it works just like in an IDE.
 
 ---
 
