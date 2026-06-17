@@ -8,7 +8,7 @@ A collection of color presets for [Minimal Theme](https://github.com/kepano/obsi
 |-------|---------|
 | [Dark Pink](themes/dark-pink/) | <img width="600" alt="Dark Pink" src="https://github.com/user-attachments/assets/49395aa2-cff1-49ef-b1bb-5975324f344d" /> |
 | [Black Blue](themes/black-blue/) | <img width="600" alt="Black Blue" src="https://github.com/user-attachments/assets/8fef97e3-a867-4f8d-a904-743b814ab8ab" /> |
-| [Dark Amber](themes/dark-amber/) | <img width="1710" height="1073" alt="Screenshot 2026-06-17 at 10 22 14" src="https://github.com/user-attachments/assets/e0681587-72a7-449b-aa9c-a4801858e8d2" /> |
+| [Dark Amber](themes/dark-amber/) | <img width="600" alt="Dark Amber" src="https://github.com/user-attachments/assets/e0681587-72a7-449b-aa9c-a4801858e8d2" /> |
 
 ## Installation
 
