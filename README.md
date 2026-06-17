@@ -8,6 +8,7 @@ A collection of color presets for [Minimal Theme](https://github.com/kepano/obsi
 |-------|---------|
 | [Dark Pink](themes/dark-pink/) | <img width="600" alt="Dark Pink" src="https://github.com/user-attachments/assets/49395aa2-cff1-49ef-b1bb-5975324f344d" /> |
 | [Black Blue](themes/black-blue/) | <img width="600" alt="Black Blue" src="https://github.com/user-attachments/assets/8fef97e3-a867-4f8d-a904-743b814ab8ab" /> |
+| [Dark Amber](themes/dark-amber/) | <!-- Add preview screenshot here --> |
 
 ## Installation
 
@@ -16,6 +17,10 @@ A collection of color presets for [Minimal Theme](https://github.com/kepano/obsi
 3. Install **Style Settings** plugin
 4. Open **Style Settings** → click **Import** → paste the contents of the theme's `style-settings.json`
 5. Apply the additional settings listed in the theme's README (accent color, color scheme, etc.)
+
+## Customization
+
+All themes are starting points — feel free to tweak them to your taste. Open **Minimal Theme Settings** or **Style Settings** (both appear as tabs at the bottom of Obsidian's Settings) to adjust colors, typography, and layout on the fly.
 
 ## Contributing
 
