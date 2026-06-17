@@ -50,11 +50,11 @@ print(greet("world"))
 
 ## Table
 
-| Name    | Role      | Status |  
-|---------|-----------|--------|  
-| Alice   | Designer  | Active |  
-| Bob     | Developer | Away   |  
-| Charlie | Manager   | Active |  
+| **Name** | **Role**  | **Status** |
+| -------- | --------- | ---------- |
+| Alice    | Designer  | Active     |
+| Bob      | Developer | Away       |
+| Charlie  | Manager   | Active     |
 
 ## Callout
 
