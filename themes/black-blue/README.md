@@ -12,7 +12,7 @@ A true-black dark theme with a vivid blue accent, built on the macOS color schem
 
 ## Preview
 
-<img width="1710" height="1073" alt="Black Blue preview" src="https://github.com/user-attachments/assets/8fef97e3-a867-4f8d-a904-743b814ab8ab" />
+<img width="1710" height="1073" alt="Black Blue preview" src="preview.png" />
 
 ## Installation
 

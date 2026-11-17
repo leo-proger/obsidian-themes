@@ -11,7 +11,7 @@ A dark theme with a vibrant pink accent, built on the Ayu color scheme.
 
 ## Preview
 
-<img width="1710" height="1073" alt="Dark Pink preview" src="https://github.com/user-attachments/assets/49395aa2-cff1-49ef-b1bb-5975324f344d" />
+<img width="1710" height="1073" alt="Dark Pink preview" src="preview.png" />
 
 ## Installation
 
